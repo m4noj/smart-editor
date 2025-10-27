@@ -1,0 +1,42 @@
+DEFAULT_DARK = {
+    'background':    '#1e1e1e',
+    'foreground':    '#f8f8f2',
+    'highlight':      "#2a2a2a",
+    'comment':       '#75715e',
+    'keywords':       "#fa5692",
+    'keywords2':       "#d67f33",
+    'keywords3':       "#e0296c",
+    'keywords4':       "#83a9d5", 
+    'builtin':       "#4cb8f3",  
+    'type':          "#c586c0",
+    'bool':          "#dedede",
+    'string':        "#f79483",   
+    'function':      "#dcdcaa",  
+    'identifier':    "#44d3b7",   
+    'punctuation':   '#fadc00',  
+    'number':      "#85ddeb",   
+    'operator':        "#dedede", 
+    'decorator':     '#fd971f'
+}
+
+DEFAULT_LIGHT = {
+    'background':    "#d6dfe7ff", 
+    'foreground':    '#000000',  
+    'highlight':      "#dbd9d9ff", 
+    'comment':       "#435AA2",
+    'keywords':       "#c80808",
+    'keywords2':       "#0aa436",
+    'keywords3':       "#001FD2",
+    'keywords4':       "#2b4c97", 
+    'function':      "#cc8523",
+    'builtin':       "#017F31",
+    'type':          '#267f99',
+    'bool':          "#f35d5d",
+    'string':        "#b40101",
+    'number':        "#8F0101",
+    'operator':      '#000000',
+    'identifier':    '#000000',
+    'punctuation':   "#001FD2",
+    'decorator':     '#808000',
+
+}
