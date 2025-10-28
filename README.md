@@ -1,6 +1,9 @@
 # Smart Code Editor 
 
-A clean, lightweight, and intelligent **code editor** built from scratch in **Python (PyQt5)**.  Designed to be minimal, elegant, and extensible – a personal project to learn & explore **GUI development, syntax highlighting, lexers, and editor design**. furthermore, it lays the foundation for advanced features like autocomplete and AI-assisted coding.
+A clean, lightweight, and intelligent **code editor** built from scratch in **Python (PyQt5)**.  
+Designed to be minimal, elegant, and extensible – a personal project to learn & explore **GUI development, syntax highlighting, lexers, and editor design**. 
+
+- Furthermore, it lays the foundation for advanced features like autocomplete and AI-assisted coding.
 
 ---
 
@@ -25,26 +28,6 @@ A clean, lightweight, and intelligent **code editor** built from scratch in **Py
 
 ---
 
-## Future Roadmap
-
-- Autocomplete & Intelligent Code Hints  
-- Integrated Terminal (QProcess / QTermWidget)
-- Sidebar & Multitab support  
-- Code Snippets & Templates  
-- Multi-tab Editing  
-- More language-specific syntax highlighters  
-
----
-
-## Tech Stack
-
-- **Python 3.10+**  
-- **PyQt5** (GUI framework)  
-- **Custom syntax highlighter** (`highlighter/lexer.py`)  
-- Modular architecture for editor, themes, and future extensions  
-
----
-
 ## Screenshots / Previews
 
 #### Dark Theme (Default)
@@ -65,8 +48,20 @@ A clean, lightweight, and intelligent **code editor** built from scratch in **Py
 
 ---
 
-## 🚀 Getting Started
+## Tech Stack
 
+- **Python 3.10+**  
+- **PyQt5** (GUI framework)  
+- **Custom syntax highlighter** (`highlighter/lexer.py`)  
+- Modular architecture for editor, themes, and future extensions  
+
+---
+
+
+
+
+
+## 🚀 Getting Started
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/m4noj/smart-editor.git
@@ -82,4 +77,15 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+---
+
+## Future Roadmap
+
+- Autocomplete & Intelligent Code Hints  
+- Integrated Terminal (QProcess / QTermWidget)
+- Sidebar & Multitab support  
+- Code Snippets & Templates  
+- Multi-tab Editing  
+- More language-specific syntax highlighters  
 
