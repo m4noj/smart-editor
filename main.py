@@ -224,7 +224,7 @@ class SmartEditor(QMainWindow):
 
     def show_about(self):
         QMessageBox.information(self, "About SmartEditor",
-        "SmartEditor v1.7\n"
+        "SmartEditor v1.0\n"
         "A clean, Lightweight and Intelligent code editor.\n"
         "Built from scratch in Python with PyQt5\n\n\n"
         "Crafted by : Manoj Borkar\n"
