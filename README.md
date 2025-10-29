@@ -17,7 +17,7 @@
 ## ✨ Overview
 
 A clean, lightweight, and intelligent **code editor** built from scratch in **Python (PyQt5)**.  Includes <b>syntax highlighting, dark/light themes, and line numbers. </b>
-Designed to be minimal, elegant, and extensible – a personal project to learn & explore **GUI development, syntax highlighting, lexers, and editor design**.
+Designed to be minimal, elegant, and extensible – a personal project to learn and explore **GUI development, syntax highlighting, lexers, and editor design**.
 
 - Furthermore, it lays the foundation for advanced features like autocomplete and AI-assisted coding.
 
